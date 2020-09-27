@@ -1,0 +1,51 @@
+
+
+.login_card{
+   
+    top: 40%;
+    left :50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+
+
+}
+
+
+
+.form{
+   top: 70%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  padding: 3rem;
+  overflow: hidden;
+  background: white; 
+  text-align: center;
+}
+
+
+
+.logo{
+  
+    margin-bottom: 30px;
+   
+}
+
+
+.form input {
+    margin-left: 17px;
+}
+
+.btn1 {
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 30%;
+}
+
+.btn2 {
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 10%;
+}
+
+

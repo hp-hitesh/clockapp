@@ -1,0 +1,61 @@
+.main_section{
+    top: 70%;
+    height: 300px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+   
+    overflow: hidden;
+    background: white; 
+    margin-bottom: 5px;
+    margin-top: 50px;
+
+
+}
+
+
+
+.main_section label{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.main_section input{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.main_section button{
+    margin-left: 10px;
+}
+
+
+.setting_section label{
+    margin-left: 10px;
+}
+
+
+.setting_section input{
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+
+.setting_section button{
+    margin-left: 10px;
+}
+
+.setting_section{
+    margin: auto;
+    height:300px ;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    padding: 6rem;
+    overflow: hidden;
+    background: white; 
+    
+   
+  
+
+}
+
